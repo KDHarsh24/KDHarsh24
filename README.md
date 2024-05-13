@@ -12,11 +12,11 @@
 
 
 <p align="center"> 
-	<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDurgesh4993&countColor=%230A0209" alt="durgesh4993" />  <br><br>
+	<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKDHarsh24&countColor=%230A0209" alt="durgesh4993" />  <br><br>
 <a href="https://www.linkedin.com/in/durgesh4993/">
          <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
 </a>
-<a href="https://durgesh4993.github.io/Durgesh4993./">
+<a href="https://KDHarsh24.github.io">
          <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
 </a>
 <a href="https://leetcode.com/durgesh4993/">
