@@ -34,16 +34,14 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Harsh-YourGitHubUsername&show_icons=true&theme=radical" alt="Harsh's GitHub stats" /></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-YourGitHubUsername&theme=radical" alt="GitHub Streak" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=KDHarsh24&show_icons=true&theme=radical" alt="Harsh's GitHub stats" /></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHarsh24&theme=radical" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react)](https://your-portfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kdharsh24)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react)](https://kdharsh24.github.io) 
 ✨ **Let's innovate and build amazing things together!** 🚀  
