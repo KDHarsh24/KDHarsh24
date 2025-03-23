@@ -1,4 +1,4 @@
-# ✨ Hey there, I'm Harsh! 👋  
+# ✨ Hello World, I'm Harsh! 👋  
 
 <!-- Animated Header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Enthusiast;Problem+Solver;Natural+Language+Models!)
