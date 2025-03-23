@@ -89,11 +89,11 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/kdharsh24">
+  <a href="https://linkedin.com/in/kdharsh24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://kdharsh24.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+  <a href="https://kdharsh24.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
