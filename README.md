@@ -44,4 +44,5 @@
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kdharsh24)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react)](https://kdharsh24.github.io) 
+<br/>
 ✨ **Let's innovate and build amazing things together!** 🚀  
