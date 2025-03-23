@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 🎓 **CSE Student @ IIIT Manipur**  
-💡 **Passionate about Web, AI, and Data Science**  
+💡 **Passionate about Web, AI, Data Science, Natural Language Processing, LLMs**  
 🛠 **Building projects with MERN, Node.js, Python & more**  
 🌍 **Exploring Open Source & Tech Innovations**  
 
