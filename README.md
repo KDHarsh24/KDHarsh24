@@ -1,7 +1,7 @@
 # ✨ Hello World, I'm Harsh! 👋  
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
 
 
 ## 🚀 About Me  
