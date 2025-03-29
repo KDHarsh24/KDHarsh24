@@ -34,6 +34,8 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
     </td>
     <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=flask&logoColor=white" alt="flask"> 
+      <br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">  
       <br>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">  
@@ -44,6 +46,7 @@
       <br>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">  
       <br>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="SQLite"> 
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">  
     </td>
     <td>
