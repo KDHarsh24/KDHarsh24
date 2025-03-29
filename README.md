@@ -83,7 +83,11 @@
 ----
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=KDHarsh24&show_icons=true&theme=radical" alt="Harsh's GitHub stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHarsh24&theme=radical" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KDHarsh24&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHarsh24&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ---
 
